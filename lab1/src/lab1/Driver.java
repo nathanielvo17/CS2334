@@ -22,13 +22,13 @@ public class Driver
         BufferedReader br = new BufferedReader (new InputStreamReader(System.in));
         String input = br.readLine();
 
-        /*	Takes the input received and uses it to create an instance "course" of the class "Lab"
-         * 	Outputs the String representation of the Lab "course" of the following format:
-         *  Lab: lab_name, Students: number_of_students, Teaching Assistants: number_of_teaching_assistants, lab_coverage
-         */
+        /*	
+          Takes the input received and uses it to create an instance "course" of the class "Lab"
+          Outputs the String representation of the Lab "course" of the following format:
+          Lab: lab_name, Students: number_of_students, Teaching Assistants: number_of_teaching_assistants, lab_coverage
+        */
         Lab course = new Lab(input);
         System.out.println(course);
         br.close();
     }
-    yes no
 }
