@@ -10,7 +10,7 @@ public class Script {
             for (j = i - 1; j > 1; j--) {
                 if (i % j == 0) {
                     k++;
-                }
+                }j
             }
             if (k == 0 ) {
                 System.out.println(i);
