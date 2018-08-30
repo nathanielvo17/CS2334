@@ -1,0 +1,24 @@
+{
+    "Lab Section": integer - 11,
+    "Last Modified": string - "2018-08-30",
+    "OU ID": integer - 113441059,
+    "OU EMAIL": string - "Nathaniel.T.Vo-1@ou.edu",
+    "Tasks": [
+        {
+            "Description": "Create Animal Constructor",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": <Time it took you to complete this task>
+        },
+        {
+            "Description": "Create Animal Getters",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": <Time it took you to complete this task>
+        },
+        {
+            "Description": "Create Animal toString",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": <Time it took you to complete this task>
+        },
+        <More Tasks>
+    ]
+}
